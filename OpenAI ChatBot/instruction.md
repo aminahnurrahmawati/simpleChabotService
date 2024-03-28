@@ -1,3 +1,4 @@
 - The QA engine is in path : controllers/ingest_build , use it as the qa model.
 - the service is in path routes/service
 - to run the service : ```python run.py```
+- to open the swagger ```http://localhost:5000/docs``` (you can change your own host)
