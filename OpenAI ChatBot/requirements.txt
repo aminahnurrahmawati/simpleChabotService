@@ -1,0 +1,11 @@
+openai
+tiktoken
+python-dotenv
+langchain
+chromadb
+rich
+unstructured
+pdf2image
+pytesseract
+uvicorn
+fastapi
