@@ -1,2 +1,3 @@
 - The QA engine is in path : controllers/ingest_build , use it as the qa model.
 - the service is in path routes/service
+- to run the service : ```python run.py```
