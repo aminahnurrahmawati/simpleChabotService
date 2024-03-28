@@ -1,5 +1,1 @@
-1. Dalam dokumen Skh-1.3.17 tahun 2019 Spesifikasi Khusus Interim Pengendali Erosi Lereng terdapat ilustrasi gambar yang berkaitan dengan Spesifikasi Khusus Interim Mengenai Pengendali Erosi Lereng Skh-1.3.17 tahun 2019 sebagai berikut:
-	1) Gambar 1. Ilustrasi Bentuk Angkur (panjang terjangkar minimum 300 mm, diameter minimum 8 mm). Gambar tersebut dapat dilihat pada tautan gambar berikut ini : ![skh-1317_18_gmbr-1](https://drive.google.com/uc?id=1YGi6BMqoHp2ut1mz32z87MXIP-oQMCYU).
-	2) Gambar 2. Ilustrasi Pemasangan Angkur Parit. Gambar tersebut dapat dilihat pada tautan gambar berikut ini : ![skh-1317_18_gmbr-2](https://drive.google.com/uc?id=1fX5SjIhh1g9z9ND7D7EgjSaxuRJ0vZYh).
-	3) Gambar 3. Ilustrasi Tumpang Tindih ketika Selimut Pengendali Erosi Lereng atau Matras Perkuatan harus disambung. Gambar tersebut dapat dilihat pada tautan gambar berikut ini : ![skh-1317_19_gmbr-3](https://drive.google.com/uc?id=1vefM1Rxy-8Oia2dnSBdl6vH4Je2jaQ3_).
-	4) Gambar 4. Ilustrasi Contoh Pemasangan Selimut Pengendali Erosi Lereng atau Matras Perkuatan dengan Terasering. Gambar tersebut dapat dilihat pada tautan gambar berikut ini : ![skh-1317_20_gmbr-4](https://drive.google.com/uc?id=16Nd615WyMyKGS0Xo1k_DHghtjpw8IWKm).
+
